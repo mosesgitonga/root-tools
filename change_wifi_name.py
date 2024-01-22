@@ -1,4 +1,5 @@
 #!/usr/bin/env python3.10
+
 """
 This tool is still under development
  It is supposed to change the wifi name whenever you are connected to it.
